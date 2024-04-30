@@ -10,10 +10,7 @@ por lo que no se detalla qué producto específico se está vendiendo.*/
 #include "ejercicio3.h"
 #include <iostream>
 
-void ejercicio3() {
-    // Implementación de la función ejercicio3
-    std::cout << "Función ejercicio3() implementada correctamente." << std::endl;
-}
+void ejercicio3(); 
 
 // inicializa los atributos
 CuentaCorriente::CuentaCorriente(string nom, string ape, string dir, string tele, double sald, string id, string clav) {
