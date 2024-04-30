@@ -1,6 +1,6 @@
 #include "cuenta-corriente.h"
 
-
+void cuentacorriente();
 
 // inicializa los atributos
 C_c::C_c(string nom, string ape, string dir, string tele, double sald, string id, string clav) {
